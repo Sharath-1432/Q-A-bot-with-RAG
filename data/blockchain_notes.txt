@@ -1,0 +1,11 @@
+Blockchain Technology Overview
+
+Blockchain is a distributed ledger technology that records transactions across multiple computers.
+
+Each block contains transaction data, a timestamp, and a cryptographic hash linking it to the previous block.
+
+Hyperledger Fabric is a permissioned blockchain platform designed for enterprise applications.
+
+Blockchain technology improves transparency, traceability, and security in business processes.
+
+Common use cases include supply chain management, digital identity, and financial services.

@@ -1,0 +1,11 @@
+Cloud Computing Fundamentals
+
+Cloud computing provides on-demand access to computing resources such as servers, storage, databases, and networking.
+
+The three primary cloud service models are Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+Benefits of cloud computing include scalability, flexibility, cost efficiency, and high availability.
+
+Popular cloud providers include Amazon Web Services, Microsoft Azure, and Google Cloud Platform.
+
+Virtualization technology enables multiple virtual machines to run on a single physical server.

@@ -1,0 +1,11 @@
+Introduction to Machine Learning
+
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data without being explicitly programmed.
+
+Supervised learning uses labeled data for training. Common algorithms include linear regression, decision trees, and support vector machines.
+
+Unsupervised learning discovers hidden patterns in unlabeled data. Clustering algorithms such as K-means are widely used.
+
+Deep learning is a subset of machine learning that utilizes neural networks with multiple layers.
+
+Applications of machine learning include image recognition, speech processing, recommendation systems, and medical diagnosis.
